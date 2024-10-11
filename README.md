@@ -1,1 +1,2 @@
 # Ghackk-Technologies
+This project involved deploying a web application inspired by "The 50 Best Fantasy Manhwa You Must Read Now" on AWS. The key components included using EC2 for hosting, S3 for image storage, RDS for database management, and configuring auto-scaling and security measures like HTTPS and firewall rules. It’s a comprehensive cloud setup that demonstrates a full-stack cloud solution using AWS, with a strong focus on scalability, security, and efficient resource management.
